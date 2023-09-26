@@ -12,7 +12,12 @@ public class Main {
         System.out.println("Segona linea de text");
         System.out.print("Me dic Nerei");
         System.out.println("I soc l'alumne de DAM");
-
     }
 
+    //declaracions de variables
+//tipo nom =valor;
+    float velocitat = 1.234567890F;
+    char lletra = 'G';
+
 }
+
